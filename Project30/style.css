@@ -1,0 +1,154 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+#tt{
+    color: #457B9D;
+    font-size: 32px;
+}
+
+.mine{
+    display: inline-block;
+}
+
+
+.line1{
+    display: flex;
+ } 
+
+
+
+
+
+
+.box1{
+     width: 360px;
+     height: 350px;
+     border-radius: 10px;
+     margin-left: 95px;
+     background-color: #FFFFFF;
+     border-left: 1px solid gray;
+     border-right: 1px solid gray;
+     border-top: 1px solid gray;
+     box-shadow: 0px 2px gray;
+     
+}
+
+.box2{
+    width: 360px;
+    height: 350px;
+    border-radius: 10px;
+    margin-left: 40px;
+    background-color:#FFFFFF; 
+    border-left: 1px solid gray;
+    border-right: 1px solid gray;
+    border-top: 1px solid gray;
+    box-shadow: 0px 2px gray;
+}
+
+.box3{
+    width: 320.47px;
+    height: 350px;
+    border-radius: 10px;
+    margin-left: 40px;
+    background-color: #FFFFFF; 
+    border-left: 1px solid gray;
+    border-right: 1px solid gray;
+    border-top: 1px solid gray;
+    box-shadow: 0px 2px gray;
+}
+
+.box4{
+    width: 360px;
+    height: 350px;
+    border-radius: 10px;
+    margin-left: 95px;
+    background-color: #FFFFFF;
+    display: flex;
+    border-left: 1px solid gray;
+    border-right: 1px solid gray;
+    border-top: 1px solid gray;
+    box-shadow: 0px 2px gray;
+
+}
+
+.box5{
+   width: 360px;
+   height: 350px;
+   border-radius: 10px;
+   margin-left: 40px;
+   background-color:#FFFFFF; 
+   border-left: 1px solid gray;
+    border-right: 1px solid gray;
+    border-top: 1px solid gray;
+    box-shadow: 0px 2px gray;
+}
+
+.box6{
+   width: 320.47px;
+   height: 350px;
+   border-radius: 10px;
+   margin-left: 40px;
+   background-color: #FFFFFF; 
+   border-left: 1px solid gray;
+    border-right: 1px solid gray;
+    border-top: 1px solid gray;
+    box-shadow: 0px 2px gray;
+    margin-bottom: 20px;
+}
+
+
+.img1{
+    width: 360px;
+    height: 220px;
+    margin-left: 0px;
+ }
+
+ .img2{
+    width: 360px;
+    height: 220px;
+    margin-left: 0px;
+ }
+
+ .img3{
+    width: 320px;
+    height: 220px; 
+    margin-left: 0px;
+   
+ }
+
+ .img4{
+    width: 360px;
+    height: 220px;
+    margin-left: 0px;
+ }
+
+ .img5{
+    width: 360px;
+    height: 220px;
+    margin-left: 0px;
+ }
+
+ .img6{
+    width: 320px;
+    height: 220px;
+    margin-left: 0px;  
+     
+ }
+
+h3{
+    margin-left: 15px;
+}
+
+#aa{
+    margin-left: 15px;
+
+}
+
+#bb{
+    margin-left: 15px;
+    color: #457B9D;
+}
+
+
